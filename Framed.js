@@ -10,10 +10,10 @@ var Framed = {};
 	
 	var fpsEl = $(document.createElement("div"))
 		.css({
-			position : "fixed",
-			top      : 0,
-			right    : 0,
-			color    : "black",
+			position   : "fixed",
+			top        : 0,
+			right      : 0,
+			color      : "black",
 			fontFamily : "\"Courier New\", monospace"
 		})
 	;
